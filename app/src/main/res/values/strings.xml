@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dashboard_Cahyo_06</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard">Dashboard</string>
+    <string name="pilihan_menu">Pilihan Menu</string>
+    <string name="lihat_lebih">Lihat lebih</string>
+    <string name="konsultasi">Konsultasi</string>
+    <string name="ambulan">Ambulan</string>
+    <string name="komunitas">Komunitas</string>
+    <string name="dokter_gigi">Dokter Gigi</string>
+    <string name="wangon_banyumas">Wangon, Banyumas</string>
+    <string name="_10_00_16_00">10.00 - 16.00</string>
+    <string name="_200k">200k</string>
+    <string name="dokter_bedah">Dokter Bedah</string>
+    <string name="_350k">350k</string>
+    <string name="purwokerto_banyumas">Purwokerto, Banyumas</string>
+    <string name="jeruk_legi_cilacap">Jeruk Legi, Cilacap</string>
+    <string name="_150k">150k</string>
+    <string name="dokter_hewan">Dokter Hewan</string>
+    <string name="_10_00_18_00">10.00 - 18.00</string>
+    <string name="_10_00_15_00">10.00 - 15.00</string>
+</resources>
